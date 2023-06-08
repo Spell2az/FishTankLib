@@ -1,0 +1,1 @@
+global using FishTankLib.Fish;
